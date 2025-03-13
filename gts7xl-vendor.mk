@@ -149,6 +149,7 @@ PRODUCT_PACKAGES += \
     libegis_fp_normal_sensor_test \
     libgf_in_system_lib \
     libqfp_sensortest \
+    libsecril-client \
     libsynaFpSensorTestNwd \
     libthirdparty_zoomtranslator_imp \
     libvdis_interface
