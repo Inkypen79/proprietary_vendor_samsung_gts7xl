@@ -152,4 +152,6 @@ PRODUCT_PACKAGES += \
     libsecril-client \
     libsynaFpSensorTestNwd \
     libthirdparty_zoomtranslator_imp \
-    libvdis_interface
+    libvdis_interface \
+    sensors.grip \
+    sensors.ssc
